@@ -1,0 +1,80 @@
+﻿生成启动时间为 2014/2/24 1:17:50。
+     1>项目“d:\documents\visual studio 2010\Projects\OSFileDesign\OSFileDesign\OSFileDesign.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\OSFileDesign.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\software\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FileSystem.cpp main.cpp
+         main.cpp
+         FileSystem.cpp
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(80): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(108): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(145): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(214): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(247): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(262): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(278): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(283): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(286): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(305): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(320): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(335): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(349): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(351): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(355): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(356): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(365): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(366): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(408): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(581): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(593): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(632): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(864): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(865): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(866): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(899): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(940): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(974): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(1016): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(1099): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(1135): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+         正在生成代码...
+     1>d:\documents\visual studio 2010\projects\osfiledesign\osfiledesign\filesystem.cpp(351): warning C4700: 使用了未初始化的局部变量“mode”
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\software\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\documents\visual studio 2010\Projects\OSFileDesign\Debug\OSFileDesign.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OSFileDesign.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\documents\visual studio 2010\Projects\OSFileDesign\Debug\OSFileDesign.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\documents\visual studio 2010\Projects\OSFileDesign\Debug\OSFileDesign.lib" /MACHINE:X86 Debug\OSFileDesign.exe.embed.manifest.res
+         Debug\Block.obj
+         Debug\DataBlock.obj
+         Debug\DirectoryTree.obj
+         Debug\FileSystem.obj
+         Debug\INode.obj
+         Debug\INodeBlock.obj
+         Debug\main.obj
+         Debug\MyDirectory.obj
+         Debug\SuperBlock.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\OSFileDesign.exe.embed.manifest" /manifest Debug\OSFileDesign.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         OSFileDesign.vcxproj -> d:\documents\visual studio 2010\Projects\OSFileDesign\Debug\OSFileDesign.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\OSFileDesign.unsuccessfulbuild”。
+         正在对“Debug\OSFileDesign.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“d:\documents\visual studio 2010\Projects\OSFileDesign\OSFileDesign\OSFileDesign.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.98
